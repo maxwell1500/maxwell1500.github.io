@@ -1,0 +1,17 @@
+body{
+  background: lightblue;
+}
+h1{
+  border: blue solid;
+  border-radius: 15px;
+  border-width: medium;
+  text-align: center;
+}
+.firstOne{
+  font-size: 30px;
+  background: rgb(180,200,0);
+  color: white;
+  radius: 5px;
+  width: auto;
+  height: 50px;
+}
